@@ -1,0 +1,31 @@
+body {
+    background: rgb(245,14,14);
+background: linear-gradient(125deg, rgba(245,14,14,1) 0%, rgba(213,15,15,1) 25%, rgba(168,13,13,1) 50%, rgba(133,11,11,1) 75%, rgba(120,10,10,1) 100%);
+}
+h2 {
+    font-family: 'Stint Ultra Condensed';
+    letter-spacing: 2;
+    background-color: azure;
+    width: 500;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'Abel';
+    color: ivory;
+}
+
+i {
+    font-family: 'Crimson Text';
+    color: rgb(240, 241, 161);
+    font-size: 20px;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+hr {
+    width:600px;
+}
